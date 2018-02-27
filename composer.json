@@ -25,7 +25,7 @@
         "barryvdh/laravel-dompdf": "0.6.*",
         "barryvdh/laravel-snappy": "0.2.x",
         "h4cc/wkhtmltopdf-amd64": "0.12.x",
-        "h4cc/wkhtmltoimage-amd64": "0.12.x",
+        "h4cc/wkhtmltoimage-amd64": "0.12.4",
         "chr0n1x/php_codesniffer_tests": "2.0.0",
         "wangoviridans/ganon": "dev-master",
         "google/apiclient": "1.*",
