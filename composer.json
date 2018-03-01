@@ -40,7 +40,7 @@
         "sofa/eloquence": "5.1.*",
         "owen-it/laravel-auditing": "^2.2",
         "elasticquent/elasticquent": "dev-master",
-        "league/fractal": "^0.13.0",
+        "league/fractal": "^0.17.0",
         "baum/baum": "~1.1",
         "jenssegers/mongodb": "^3.1",
         "pragmarx/tracker": "^2.0",
