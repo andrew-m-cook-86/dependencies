@@ -46,7 +46,7 @@
         "pragmarx/tracker": "^2.0",
         "pusher/pusher-php-server": "^2.6",
         "emcconville/google-map-polyline-encoding-tool" : ">=1.2.1",
-        "league/csv": "^8.0",
+        "league/csv": "^9.1",
         "php-amqplib/php-amqplib": "2.6.*",
         "tjphippen/docusign": "0.3.*@dev",
         "Nathanmac/Parser": "4.*",
