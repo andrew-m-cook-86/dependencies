@@ -13,7 +13,7 @@
         "predis/predis": "~1.0",
         "bugsnag/bugsnag-laravel": "2.0",
         "tymon/jwt-auth": "0.5.*",
-        "stripe/stripe-php": "3.*",
+        "stripe/stripe-php": "6.*",
         "skovmand/mailchimp-laravel": "1.*",
         "zizaco/entrust": "dev-laravel-5",
         "intervention/image": "^2.3",
@@ -105,7 +105,7 @@
     },
     "repositories": [
         {
-            "type": "git",
+            "type": "vcs",
             "url": "git@github.com:jamisonvalenta/Laravel-4-Generators.git"
         }
     ]
