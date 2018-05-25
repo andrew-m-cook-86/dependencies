@@ -11,7 +11,7 @@
         "php": ">=5.5.9",
         "laravel/framework": "5.1.*",
         "predis/predis": "~1.0",
-        "bugsnag/bugsnag-laravel": "2.0",
+        "bugsnag/bugsnag-laravel": "2.14.1",
         "tymon/jwt-auth": "0.5.*",
         "stripe/stripe-php": "3.*",
         "skovmand/mailchimp-laravel": "1.*",
@@ -105,7 +105,7 @@
     },
     "repositories": [
         {
-            "type": "git",
+            "type": "vcs",
             "url": "git@github.com:jamisonvalenta/Laravel-4-Generators.git"
         }
     ]
