@@ -23,7 +23,7 @@
         "maatwebsite/excel": "~2.1.0",
         "doctrine/dbal": "2.5.2",
         "barryvdh/laravel-dompdf": "0.6.*",
-        "barryvdh/laravel-snappy": "0.2.x",
+        "barryvdh/laravel-snappy": "0.4.1",
         "h4cc/wkhtmltopdf-amd64": "0.12.x",
         "h4cc/wkhtmltoimage-amd64": "0.12.x",
         "chr0n1x/php_codesniffer_tests": "2.0.0",
