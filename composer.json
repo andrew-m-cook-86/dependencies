@@ -47,7 +47,7 @@
         "pusher/pusher-php-server": "^2.6",
         "emcconville/google-map-polyline-encoding-tool" : ">=1.2.1",
         "league/csv": "^8.0",
-        "php-amqplib/php-amqplib": "2.6.*",
+        "php-amqplib/php-amqplib": "2.9.*",
         "tjphippen/docusign": "0.3.*@dev",
         "Nathanmac/Parser": "4.*",
         "artisaninweb/laravel-soap": "0.3.*",
