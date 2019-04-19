@@ -43,7 +43,7 @@
         "league/fractal": "^0.13.0",
         "baum/baum": "~1.1",
         "jenssegers/mongodb": "^3.1",
-        "pragmarx/tracker": "^2.0",
+        "pragmarx/tracker": "^3.2",
         "pusher/pusher-php-server": "^2.6",
         "emcconville/google-map-polyline-encoding-tool" : ">=1.2.1",
         "league/csv": "^8.0",
