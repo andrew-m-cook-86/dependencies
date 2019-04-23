@@ -28,7 +28,7 @@
         "h4cc/wkhtmltoimage-amd64": "0.12.x",
         "chr0n1x/php_codesniffer_tests": "2.0.0",
         "wangoviridans/ganon": "dev-master",
-        "google/apiclient": "1.*",
+        "google/apiclient": "2.*",
         "davispeixoto/laravel5-salesforce": "^1.0",
         "subdee/salesforce-bulk-api-client": "dev-master",
         "phpforce/common": "dev-master",
